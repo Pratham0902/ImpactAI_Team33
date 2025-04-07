@@ -11,3 +11,5 @@
   Enable real-time multilingual translation of content.
   
   Highlight exaggerated or emphasized words to convey the speaker's intent.
+
+## Workflow/Architecture
